@@ -8,8 +8,6 @@ It seems you've stumbled upon my Github page! Welcome! Stay for as long as you'd
 - a Full Stack Developer
 - an illustrator & artist (I disdain ugly designs)
 
-## [See my portfolio here!](https://jasmine7310.github.io/jasmine-portfolio/)
-
 ## Directory of Skills:
 ### Technical, Frameworks, & Software Skills
 
