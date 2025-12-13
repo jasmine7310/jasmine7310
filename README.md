@@ -1,4 +1,5 @@
-# Hey there! I'm Jasmine!
+![Name Banner](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hey%20there!%20I'm%20Jasmine&rotate=0&textBg=false&reversal=false&section=header&animation=scaleIn&desc=☺️🐳🕊️🤍&descAlign=49&descAlignY=65)
+
 It seems you've stumbled upon my Github page! Welcome! Stay for as long as you'd like ☺️☺️
 
 ## Who are you? Well I'm...
